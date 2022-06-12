@@ -36,6 +36,10 @@ if fifoQueue {
 - Какому регулярному выражению должно подчиняться имя?  
 
 ответ:  
-https://github.com/hashicorp/terraform-provider-aws/blob/77b78592c1a15c0b41d0f16f6f115696f9771731/internal/service/sqs/queue.go#L424
+
+https://github.com/hashicorp/terraform-provider-aws/blob/77b78592c1a15c0b41d0f16f6f115696f9771731/internal/service/sqs/queue.go#L425
+
+https://github.com/hashicorp/terraform-provider-aws/blob/77b78592c1a15c0b41d0f16f6f115696f9771731/internal/service/sqs/queue.go#L427
 
 https://github.com/hashicorp/terraform-provider-aws/blob/77b78592c1a15c0b41d0f16f6f115696f9771731/internal/service/sqs/queue.go#L430
+
